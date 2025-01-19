@@ -1,0 +1,75 @@
+baseurl: https://blog.hungcq.xyz
+title: Essays | HungCQ
+theme: PaperMod
+paginate: 20
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: false
+
+markup:
+  highlight:
+    style: github-dark
+  goldmark:
+    renderer:
+      hardWraps: false
+
+params:
+  env: production
+  author: HungCQ
+  info: A Skeptic
+  description: HungCQ | Essays
+  keywords:
+    - blog
+    - philosophy
+    - skepticism
+    - software-engineering
+  gravatar: hungcqrt@gmail.com
+
+  assets:
+    favicon: /images/my-face-square.jpg
+
+  since: 2022
+
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+  ShowReadingTime: false
+  comments: false
+
+  cover:
+    hidden: true
+    hiddenInList: true
+    hiddenInSingle: true
+
+  socialIcons:
+    - name: github
+      url: https://github.com/hungcq
+#    - name: goodreads
+#      url: https://www.goodreads.com/user/show/118617249-hung-chu
+
+menu:
+  main:
+  - name: Home
+    weight: 1
+    url : /
+  - name: Essays
+    weight: 2
+    url : categories/essays/
+  - name: Poems
+    weight: 3
+    url : categories/poems/
+  - name: In English
+    weight: 4
+    url : categories/english/
+  - name: In Vietnamese
+    weight: 5
+    url : categories/vietnamese/
+#[[menu.main]]
+#name: About
+#weight: 2
+#url: about/
