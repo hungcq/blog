@@ -42,10 +42,10 @@ then use them as tools to solve higher-order problems.
 Where would geometry be if every proof required a demonstration of the Pythagorean theorem?
 Where would software engineering be if we were still working with assembly language?
 Granted, assumptions and theories are challengeable, abstractions sometimes leak,
-and platforms sometimes don't meet all our needs and require adjustments and improvements.
-But only minor changes and tricks are justifiable, not platform-building, because:
+and platforms sometimes don't meet all our needs and require adjustments.
+But only minor changes and tricks are justifiable, not major modifications and rebuilds, because:
 1, The cost of building and testing a new platform is too high, especially for a product team, and
-2, If the tool is so bad for our purpose, why did we choose it in the first place?
+2, If the original tool is so bad for our purpose, why did we choose it in the first place?
 
 The product engineers who take on such platform-building endeavors are, at best, wasted assets.
 The companies that value such technical "skills" will probably end up with average products
