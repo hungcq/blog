@@ -53,7 +53,7 @@ he turned to the dog and command: "You, stop barking!". We can be quite sure of 
 
 I should have known that making a polite request is a desperate measure.
 Certainly, I have no right take from others the "pleasure" of adopting a dog, the "fun" on their wedding day,
-the "anguish" for their loved one. I also have no right to take from them their freedom to be ignorant,inconsiderate, uncultured.
+the "anguish" for their loved one. I also have no right to take from them their freedom to be ignorant, inconsiderate, uncultured.
 It is surely a priceless, inseparable gift that their nature, their parents and their culture have given them.
 
 So what can I do? I can turn my anger and hatred into motivation.

@@ -98,7 +98,7 @@ ngồi quan sát cơn đau chứ không đổi tư thế trong vòng 3h LOL.
 Nghe thiền sư nói, đau đớn là do các bạn unfit thôi, bị trói buộc bởi lối sống hiện tại thôi, còn thiền lâu sẽ hết đau.
 Hẳn là hết đau, khi các thiền sinh cũ ngồi nhấp nhổm, đổi chân khòm lưng 5p một lần.
 
-Mình không biết các thiền sư khác thu nhận được gì sau khoá này.
+Mình không biết các thiền sinh khác thu nhận được gì sau khoá này.
 Nhưng một cái không ai có thể phủ nhận là đau đớn trong lúc ngồi thiền.
 Đau đớn kéo dài 12 tiếng 1 ngày, hơn 10 ngày liên tiếp.
 Chưa kể tổn hại về mặt tinh thần khi 10 ngày phải sống như súc vật trong 1 không gian hạn hẹp,
@@ -147,7 +147,7 @@ mà thế nào là tốt và thế nào là xấu. Mỗi tình huống đều c�
 Đương nhiên, suy nghĩ, tích luỹ kiến thức sẽ tốn công sức, năng lượng.
 Thế nên luôn có những người vì không có khả năng tư duy, vì lười suy nghĩ,
 tìm đến tôn giáo như một câu trả lời cho mọi vấn đề. Tôn giáo giúp họ hành động,
-có thể nói là có đạo đức,trong vài tình huống đơn giản trong cuộc sống hàng ngày.
+có thể nói là có đạo đức, trong vài tình huống đơn giản trong cuộc sống hàng ngày.
 Nhưng sẽ có rủi ro khi người ta chấp nhận một cái gì đấy uncritically.
 Người ta không nhìn được sự phức tạp của nhiều vấn đề, không biết chọn lọc ra đâu là những giáo điều đúng,
 đâu là những cái không có cơ sở, đáng đưa ra phân tích.
