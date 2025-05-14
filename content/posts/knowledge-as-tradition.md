@@ -4,6 +4,7 @@ categories:
 - essays
 - english
 date: "2025-01-28T22:17:00+07:00"
+draft: true
 ---
 
 Today is the last day of the year, an important day for Vietnamese and other Chinese-influenced culture.

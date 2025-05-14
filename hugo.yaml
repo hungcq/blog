@@ -1,12 +1,14 @@
 baseurl: https://blog.hungcq.xyz
 title: Essays | HungCQ
 theme: PaperMod
-paginate: 20
 
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+
+pagination:
+  pagerSize: 20
 
 minify:
   disableXML: true
