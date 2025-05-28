@@ -9,7 +9,7 @@ tags:
 ---
 
 Recently I interviewed with a "top" Internet company in Vietnam. Top, in terms of salary offered, at least.
-But the interview content and process, in my opinion, is by no way at the top.
+But the interview content and process, in my opinion, are by no way at the top.
 I wonder how their recruitment and HR departments,
 which are willing to spend a good deal of money for headhunting services and salary offering,
 put so little thought into preparing the interview content and process.
@@ -22,7 +22,7 @@ For a backend engineer, you probably need to know scaling techniques, main types
 inter-service communication mechanisms, basic DS & algo, etc. But besides these basic technical knowledge,
 other things are technical details. They include things like obscure language features,
 implementation details of frameworks, random meanings/decisions bound to a particular technology.
-They might be useful in some rare cases such as low-level optimization, writing infrastructure libraries,
+They might be useful in some rare cases, such as low-level optimization, writing infrastructure libraries,
 or troubleshooting some rare concurrency bugs. However, most of the time, they are mere details.
 Details are what you can pick up along the way when it is necessary, provided you know the basics.
 You can even take notes of those for easy retrieval when there is a need. But most of the time,
