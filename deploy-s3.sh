@@ -3,7 +3,8 @@
 # Configuration
 BUCKET_NAME="blog-hungcq"
 DIST_DIR="public"
-REGION="ap-southeast-1"  # Change this to your desired AWS region
+REGION="ap-southeast-1"
+CLOUDFRONT_DISTRIBUTION_ID="EDB9IAGZ3MJ2U"
 
 # Colors for output
 GREEN='\033[0;32m'
@@ -36,28 +37,12 @@ fi
 echo "📤 Uploading files to S3..."
 aws s3 sync $DIST_DIR s3://$BUCKET_NAME \
     --region $REGION \
-    --delete \
-    --cache-control "max-age=31536000,public" \
-    --exclude "*.html" \
-    --exclude "*.json" \
-    --exclude "*.xml"
+    --delete
 
-# Upload HTML files with different cache control
-echo "📤 Uploading HTML files..."
-aws s3 sync $DIST_DIR s3://$BUCKET_NAME \
-    --region $REGION \
-    --delete \
-    --cache-control "no-cache" \
-    --include "*.html"
-
-# Upload JSON and XML files with different cache control
-echo "📤 Uploading JSON and XML files..."
-aws s3 sync $DIST_DIR s3://$BUCKET_NAME \
-    --region $REGION \
-    --delete \
-    --cache-control "no-cache" \
-    --include "*.json" \
-    --include "*.xml"
+aws cloudfront create-invalidation \
+  --distribution-id $CLOUDFRONT_DISTRIBUTION_ID \
+  --paths "/*" \
+  --no-cli-pager
 
 echo -e "${GREEN}✅ Deployment completed successfully!${NC}"
 echo -e "${GREEN}🌐 Your website is available at: http://$BUCKET_NAME.s3-website-$REGION.amazonaws.com${NC}" 
